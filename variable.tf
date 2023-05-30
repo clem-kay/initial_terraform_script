@@ -1,13 +1,13 @@
 variable access_key {
   type        = string
-  default     = "AKIA2YWUEQJ73IG6VAEP"
+  default     = "######"
   description = "This is the access_key for the terraform account"
 }
 
 
 variable secret_key {
   type        = string
-  default     =  "55lUpm3Qg84rX711x0RkRz4fC3DOmsyUlHsoaXjS"
+  default     =  "#######"
   description = "This is the secret_key for the terraform account"
 }
 
